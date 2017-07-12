@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\iais\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.deps.json
+\\Mac\Home\Documents\iais\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.json
+\\Mac\Home\Documents\iais\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.dev.json
+\\Mac\Home\Documents\iais\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.dll
+\\Mac\Home\Documents\iais\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.pdb
+\\Mac\Home\Documents\iais\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\iais\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.AssemblyInfo.cs
+\\Mac\Home\Documents\iais\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.dll
+\\Mac\Home\Documents\iais\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.pdb
