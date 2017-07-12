@@ -1,0 +1,10 @@
+/Users/ehsan/Documents/iais/MvcMovie/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.deps.json
+/Users/ehsan/Documents/iais/MvcMovie/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.json
+/Users/ehsan/Documents/iais/MvcMovie/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.dev.json
+/Users/ehsan/Documents/iais/MvcMovie/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.dll
+/Users/ehsan/Documents/iais/MvcMovie/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.pdb
+/Users/ehsan/Documents/iais/MvcMovie/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.csprojResolveAssemblyReference.cache
+/Users/ehsan/Documents/iais/MvcMovie/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.AssemblyInfo.cs
+/Users/ehsan/Documents/iais/MvcMovie/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.dll
+/Users/ehsan/Documents/iais/MvcMovie/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.pdb
+/Users/ehsan/Documents/iais/MvcMovie/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.csproj.CoreCompileInputs.cache
