@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\iais\MyUniversity\MyUniversity\bin\Debug\netcoreapp1.1\MyUniversity.deps.json
+\\Mac\Home\Documents\iais\MyUniversity\MyUniversity\bin\Debug\netcoreapp1.1\MyUniversity.runtimeconfig.json
+\\Mac\Home\Documents\iais\MyUniversity\MyUniversity\bin\Debug\netcoreapp1.1\MyUniversity.runtimeconfig.dev.json
+\\Mac\Home\Documents\iais\MyUniversity\MyUniversity\bin\Debug\netcoreapp1.1\MyUniversity.dll
+\\Mac\Home\Documents\iais\MyUniversity\MyUniversity\bin\Debug\netcoreapp1.1\MyUniversity.pdb
+\\Mac\Home\Documents\iais\MyUniversity\MyUniversity\obj\Debug\netcoreapp1.1\MyUniversity.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\iais\MyUniversity\MyUniversity\obj\Debug\netcoreapp1.1\MyUniversity.AssemblyInfo.cs
+\\Mac\Home\Documents\iais\MyUniversity\MyUniversity\obj\Debug\netcoreapp1.1\MyUniversity.dll
+\\Mac\Home\Documents\iais\MyUniversity\MyUniversity\obj\Debug\netcoreapp1.1\MyUniversity.pdb
