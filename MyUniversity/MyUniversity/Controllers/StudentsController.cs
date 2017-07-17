@@ -22,6 +22,7 @@ namespace MyUniversity.Controllers
         // GET: Students
         public async Task<IActionResult> Index(string sortOrder)
         {
+
             ViewData["NameSortParm"] = string.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
             ViewData["DataSortParm"] = sortOrder == "Date" ? "date_desc" : "Date";
             var students = from s in _context.Students select s;
